@@ -423,8 +423,8 @@ ul li {
 .main__wrapper {
     display: block;
     background: 
-    url("./img/background_people.png") center top no-repeat, 
-    url("./img/56278948-888x544\ 2.png") center bottom no-repeat;
+    url("img/background_people.png") center top no-repeat, 
+    url("img/56278948-888x544\ 2.png") center bottom no-repeat;
 }
 
 .btn_blue {
